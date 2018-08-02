@@ -6,3 +6,6 @@ You are doing a great job!
 
 #### Hi again
 Thank you!
+
+#### Try some nice markdown ;) 
+_Italics_ **Bold**
